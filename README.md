@@ -1,4 +1,4 @@
-# Leetcode_Datebase_SQL_Solution
+# Leetcode Datebase SQL Solution
 My own solutions to Leetcode Database hard-level questions.
 
 **Catalogue**
