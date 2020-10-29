@@ -5,4 +5,6 @@ My own solutions to Leetcode Database hard-level questions.
 
 618 Students Report By Geography
 
+1412 Find the Quiet Students in All Exams
+
 1479 Sales by Day of the Week
